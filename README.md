@@ -13,7 +13,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dnlcarvajalc&rank_icon=github&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcarvajalc&hide_progress=true&theme=radical&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnlcarvajalc&theme=radical&card_width=200" />
 </a>
 
 <!--
